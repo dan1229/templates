@@ -1,0 +1,10 @@
+# mac os
+.DS_Store
+
+
+# env
+# TODO apply to all env files regardless of dir
+.env
+
+# pycache
+# 
