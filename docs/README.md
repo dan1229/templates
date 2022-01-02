@@ -1,11 +1,13 @@
-# templates
+# PROJECT TITLE
 #### By: [Daniel Nazarian](https://danielnazarian) 🐧
 ##### Contact me at <dnaz@danielnazarian.com>
 
 -------------------------------------------------------
 
-## Heading
-BODY
+### Heading
+TODO
+#### Subheading
+TODO
 
 -------------------------------------------------------
 ##### [https://danielnazarian.com](https://danielnazarian.com)
