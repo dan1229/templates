@@ -1,5 +1,5 @@
 # {project_name_capitalcase}
-#### By: [Daniel Nazarian](https://danielnazarian) 🐧
+#### By: [Daniel Nazarian](https://danielnazarian) 🐧👹
 ##### Contact me at <dnaz@danielnazarian.com>
 
 -------------------------------------------------------
