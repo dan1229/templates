@@ -1,9 +1,10 @@
-# templates
-#### By: [Daniel Nazarian](https://danielnazarian) 🐧
+# {project_name_capitalcase}
+#### By: [Daniel Nazarian](https://danielnazarian) 🐧👹
 ##### Contact me at <dnaz@danielnazarian.com>
 
 -------------------------------------------------------
 
+## Welcome
 Templates is some templates and docs I use in a variety of projects. This repo is meant to be as barebones and generalized as possible - i.e., language/framework agnostic.
 
 -------------------------------------------------------
