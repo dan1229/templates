@@ -4,7 +4,7 @@
 
 -------------------------------------------------------
 
-## Welcome
+## Description
 Templates is some templates and docs I use in a variety of projects. This repo is meant to be as barebones and generalized as possible - i.e., language/framework agnostic.
 
 -------------------------------------------------------
