@@ -1,4 +1,4 @@
-# CHANGELOG for {project_name_capitalcase}
+# CHANGELOG for {PROJECT NAME}
 #### By: [Daniel Nazarian](https://danielnazarian) 🐧👹
 ##### Contact me at <dnaz@danielnazarian.com>
 
@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
-### [0.0.1] - 2022-MM-DD
+### [0.0.1] - 2023-MM-DD
 - Initial release!
 
 -------------------------------------------------------
@@ -30,11 +30,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
-### [0.0.2] - 2022-MM-DD
+### [0.0.2] - 2023-MM-DD
 #### TODO
 - Second release!
 
 -------------------------------------------------------
 
 ##### [https://danielnazarian.com](https://danielnazarian.com)
-##### Copyright 2022 © Daniel Nazarian.
+##### Copyright 2023 © Daniel Nazarian.

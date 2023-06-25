@@ -1,4 +1,4 @@
-# {project_name_capitalcase}
+# {PROJECT_NAME}
 #### By: [Daniel Nazarian](https://danielnazarian) 🐧👹
 ##### Contact me at <dnaz@danielnazarian.com>
 
@@ -9,4 +9,4 @@ Templates is some templates and docs I use in a variety of projects. This repo i
 
 -------------------------------------------------------
 ##### [https://danielnazarian.com](https://danielnazarian.com)
-##### Copyright 2022 © Daniel Nazarian.
+##### Copyright 2023 © Daniel Nazarian.
