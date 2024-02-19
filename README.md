@@ -9,4 +9,4 @@ Templates is some templates and docs I use in a variety of projects. This repo i
 
 -------------------------------------------------------
 ##### [https://danielnazarian.com](https://danielnazarian.com)
-##### Copyright 2023 © Daniel Nazarian.
+##### Copyright 2024 © Daniel Nazarian.
