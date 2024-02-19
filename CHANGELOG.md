@@ -1,4 +1,4 @@
-# CHANGELOG for {PROJECT NAME}
+# CHANGELOG - {PROJECT NAME}
 #### By: [Daniel Nazarian](https://danielnazarian) 🐧👹
 #### Contact me at <dnaz@danielnazarian.com>
 
@@ -16,21 +16,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 -------------------------------------------------------
 
-## [Unreleased]
------
 
 
-### TODO
-
-
------
-### 0.0.1
-
-
-
-
-
-### [0.0.1] - 2023-MM-DD
+### [0.0.1] - 2024-MM-DD
 - Initial release!
 
 -------------------------------------------------------
