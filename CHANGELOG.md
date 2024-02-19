@@ -1,6 +1,6 @@
 # CHANGELOG for {PROJECT NAME}
 #### By: [Daniel Nazarian](https://danielnazarian) 🐧👹
-##### Contact me at <dnaz@danielnazarian.com>
+#### Contact me at <dnaz@danielnazarian.com>
 
 -------------------------------------------------------
 
@@ -17,7 +17,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -------------------------------------------------------
 
 ## [Unreleased]
-
 -----
 
 
