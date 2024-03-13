@@ -1,14 +1,24 @@
 #!/usr/bin/env bash
 
-# Use rsync to sync the projects directory to Google Drive
-
 set -e # always immediately exit upon error
 
-# directory config. ending slashes are important!
+# Check if script is run from the home directory
+if [ "$PWD" != "$HOME" ]; then
+    echo "Not in home dir. Attempting to switch..."
+    cd "$HOME" || exit 1
+fi
+
+# Directory config. Ending slashes are important!
 src_dir="projects/"
 dest_dir="My Drive/projects/mbp-projects-backup/"
 
-# run the sync
+# Check if source directory exists
+if [ ! -d "$src_dir" ]; then
+    echo "Source directory '$src_dir' does not exist."
+    exit 1
+fi
+
+# Run the sync
 rsync -ar --delete \
   --filter=':- .gitignore' \
   --exclude='node_modules' \
@@ -16,4 +26,3 @@ rsync -ar --delete \
   --exclude='.DS_Store' \
   --chmod='F-w' \
   "$src_dir" "$dest_dir"
-
