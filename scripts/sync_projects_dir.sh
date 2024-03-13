@@ -26,3 +26,6 @@ rsync -ar --delete \
   --exclude='.DS_Store' \
   --chmod='F-w' \
   "$src_dir" "$dest_dir"
+
+
+  echo "Sync complete."
