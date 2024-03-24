@@ -1,6 +1,6 @@
 # TODO - {Project Name}
-#### By: [Daniel Nazarian](https://danielnazarian) 🐧👹
-#### Contact me at <dnaz@danielnazarian.com>
+#### By: [Daniel Nazarian](https://www.danielnazarian.com) 🐧👹
+##### Contact me at <dnaz@danielnazarian.com>
 
 -------------------------------------------------------
 ## [Unreleased]
