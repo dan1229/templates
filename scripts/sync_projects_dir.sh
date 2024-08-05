@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+#
+# type "crontab -e" to view active cron commands
+# this should be one
+#
+
 set -e # always immediately exit upon error
 
 # Check if script is run from the home directory
@@ -9,7 +14,7 @@ if [ "$PWD" != "$HOME" ]; then
 fi
 
 # Directory config. Ending slashes are important!
-src_dir="projects/"
+src_dir="projects/"  # the location from the home directory
 dest_dir="My Drive/projects/mbp-projects-backup/"
 
 # Check if source directory exists
