@@ -14,8 +14,8 @@ if [ "$PWD" != "$HOME" ]; then
 fi
 
 # Directory config. Ending slashes are important!
-src_dir="projects/"
-dest_dir="/Users/daniel/My Drive/backups/mbp-2021-projects-backup"
+src_dir="TODO"  # the location from the home directory
+dest_dir="TODO"  # the destination to back up to
 
 # Check if source directory exists
 if [ ! -d "$src_dir" ]; then
@@ -24,6 +24,7 @@ if [ ! -d "$src_dir" ]; then
 fi
 
 # Run the sync
+# Ensure we ignore files we're not interested in backing up
 rsync -ar --delete \
   --filter=':- .gitignore' \
   --exclude='node_modules' \
