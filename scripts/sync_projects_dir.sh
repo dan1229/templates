@@ -14,8 +14,8 @@ if [ "$PWD" != "$HOME" ]; then
 fi
 
 # Directory config. Ending slashes are important!
-src_dir="projects/"  # the location from the home directory
-dest_dir="My Drive/projects/mbp-projects-backup/"
+src_dir="projects/"
+dest_dir="/Users/daniel/My Drive/backups/mbp-2021-projects-backup"
 
 # Check if source directory exists
 if [ ! -d "$src_dir" ]; then
@@ -33,4 +33,4 @@ rsync -ar --delete \
   "$src_dir" "$dest_dir"
 
 
-  echo "Sync complete."
+echo "Sync complete."
