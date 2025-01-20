@@ -23,4 +23,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 -------------------------------------------------------
 
-##### Copyright © [https://danielnazarian.com](https://danielnazarian.com)
+##### Copyright © [Daniel Nazarian](https://danielnazarian.com)

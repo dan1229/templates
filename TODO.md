@@ -14,5 +14,5 @@
 
 -------------------------------------------------------
 
-##### Copyright © [https://danielnazarian.com](https://danielnazarian.com)
+##### Copyright © [Daniel Nazarian](https://danielnazarian.com)
 
