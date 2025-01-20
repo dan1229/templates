@@ -87,3 +87,8 @@ build/
 
 # Python
 venv
+
+
+
+# Javascript / Typescript
+node_modules/
