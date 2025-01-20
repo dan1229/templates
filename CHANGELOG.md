@@ -18,10 +18,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
-### [0.0.1] - 2024-MM-DD
+### [0.0.1] - 2025-MM-DD
 - Initial release!
 
 -------------------------------------------------------
 
-##### [https://danielnazarian.com](https://danielnazarian.com)
-##### Copyright 2024 © Daniel Nazarian.
+##### Copyright © [https://danielnazarian.com](https://danielnazarian.com)

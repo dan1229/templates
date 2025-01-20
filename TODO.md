@@ -9,10 +9,10 @@
 
 
 
-### [0.0.1] - 2024-MM-DD
+### [0.0.1] - 2025-MM-DD
 #### TODO
 
 -------------------------------------------------------
 
-##### Copyright 2024 © Daniel Nazarian.
+##### Copyright © [https://danielnazarian.com](https://danielnazarian.com)
 
